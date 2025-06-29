@@ -13,5 +13,5 @@ I'm **Nikita Tereshchenko**, a soon-to-be graduate from **ITMO University**, Fac
 - **Programmin languages:** Go, Python, basics of C, JavaScript (CSS & HTML)
 - **Backend:** REST API development, experience with distributed systems and multithreading
 - **Databases:** PostgreSQL, SQLite, SQL queries
-- **Tools & Platforms:** Linux, command line, Git, Docker Compose, RabbitMQ
+- **Tools & Platforms:** Linux, command line, Git, Docker & Docker Compose, RabbitMQ
 - **Frameworks & Libraries:** goose (database migrations), sqlc (type-safe SQL queries), tgbotapi (Telegram bots), TensorFlow, Pandas
