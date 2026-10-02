@@ -23,13 +23,6 @@ Built a Python/FastAPI backend service for finding candidates for the lab's and 
 **Backend Developer Intern - Brain Development** · *Feb 2025 – May 2025*
 Built a Go utility that automated badge generation for 300+ competition participants, cutting preparation time by 3x.
 
-## Featured Projects
-
-- **Student Project Management Bot** - my bachelor's thesis: a Telegram bot that helps students and academic supervisors manage projects, schedules, and reminders
-- **[PR Reviewer Assignment Service](https://github.com/englandrecoil/REPO_NAME)** - REST service for creating and merging pull requests, automatic and random reviewer reassignment, and statistics
-- **[Marketplace REST API](https://github.com/englandrecoil/REPO_NAME)** - listings management with filtering and pagination
-- **[Auth Microservice](https://github.com/englandrecoil/REPO_NAME)** - authentication with JWT access and refresh tokens
-
 ## Tech Stack
 
 - **Languages:** Go, Python
